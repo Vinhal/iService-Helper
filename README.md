@@ -13,7 +13,7 @@ https://nodejs.org/pt-br/download/package-manager/
 #### create-react-app CLI
 https://github.com/facebook/create-react-app#creating-an-app
 
-### Dependências
+### Sugestões
 
 #### Material-UI
 npm install --save @material-ui/core
@@ -23,3 +23,6 @@ npm install --save styled-components
 
 #### react-router-dom
 npm install --save react-router-dom
+
+#### formik
+npm install --save formik
